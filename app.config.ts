@@ -1,7 +1,7 @@
 export default defineAppConfig({
   alpine: {
-    title: 'Alpine',
-    description: 'The minimalist blog theme',
+    title: 'GHOST IN THE SHELL',
+    description: 'たけるのブログです',
     image: {
       src: '/social-card-preview.png',
       alt: 'An image showcasing my project.',
@@ -18,7 +18,7 @@ export default defineAppConfig({
     },
     footer: {
       credits: {
-        enabled: true, // possible value are : true | false
+        enabled: false, // possible value are : true | false
         repository: 'https://www.github.com/nuxt-themes/alpine' // our github repository
       },
       navigation: true, // possible value are : true | false
@@ -26,13 +26,16 @@ export default defineAppConfig({
       message: 'Follow me on' // string that will be displayed in the footer (leave empty or delete to disable)
     },
     socials: {
-      twitter: 'nuxtlabs',
-      instagram: 'atinuxt',
+      twitter: 'https://twitter.com/5st7',
+      instagram: 'https://www.instagram.com/take75st/',
+
       linkedin: {
         icon: 'uil:linkedin',
         label: 'LinkedIn',
         href: 'https://www.linkedin.com/company/nuxtlabs'
-      }
+      },
+
+      github: 'https://github.com/5st7'
     },
     form: {
       successMessage: 'Message sent. Thank you!'
