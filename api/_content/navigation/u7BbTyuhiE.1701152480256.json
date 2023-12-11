@@ -1,1 +1,0 @@
-[{"title":"About","_path":"/","layout":"default"},{"title":"Articles","_path":"/articles","children":[{"title":"Hello World","_path":"/articles/create-blog","layout":"article"},{"title":"頼むからKubernetesでCPU制限を使うのはやめてくれという記事を読んだ","_path":"/articles/stop-using-cpu-limits-with-kubernetes","layout":"article"}],"layout":"page"}]
