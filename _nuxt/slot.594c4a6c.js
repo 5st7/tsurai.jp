@@ -1,0 +1,1 @@
+import{f as n}from"./MDCSlot.7dde9a48.js";import{a5 as i}from"./entry.3431c03a.js";const e=(t,r,f,...a)=>t[r]?i({...t,[r]:()=>n(t[r](),f==null?void 0:f.unwrap)},r,f,...a):i(t,r,f,...a);export{e as r};
